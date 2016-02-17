@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>TeXShop Versions</title>
+      <link>http://pages.uoregon.edu/koch/texshop/texshop-64</link>
+      <description>Most recent changes.</description>
+      <language>en</language>
+         <item>
+            <title>Version 3.60</title>
+						<sparkle:releaseNotesLink>
+							http://pages.uoregon.edu/koch/texshop/texshop-64/releasenotes360
+						</sparkle:releaseNotesLink>
+            <pubDate>Thur, 11 Feb 2016, 12:00:00 +0000</pubDate>
+            <enclosure url="http://pages.uoregon.edu/koch/texshop/texshop-64/texshop360.zip" sparkle:version="3.60" length="39945879" type="application/octet-stream" sparkle:dsaSignature="MCwCFFCthoH3mv+OL//bfsTZ7bcWnUndAhROmuJiCnhY3VOpl9P1Kf5XDfacVA==" />
+         </item>
+
+   </channel>
+</rss>

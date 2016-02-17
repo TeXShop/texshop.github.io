@@ -1,0 +1,10 @@
+TeXShop Changes 3.60
+
+1) Updated to Sparkle 1.13.1 for security reasons.
+
+2) TeXShop no longer adds a creator and type to files it writes. These were obsolete from the Classic version of the file system.
+
+3) The command "Set TeXShop as Default TeX Editor" is now active when either the Source or Preview window is active
+
+4) Slight cleanup in English and Korean localization.
+
